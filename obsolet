@@ -1,0 +1,31 @@
+**********************Chamando XHTML (Versão Antiga do HTML)****************************** 
+
+<!--Apenas para fins de conhecimento, não se usa mais alguns comandos deste código-->
+<!--O XHTML ficou obsoleto e foi substituido pelo HTML5-->
+
+<DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+"http://w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns= "http://www.w3.org/1999/xhtml" xml:lang="pt-br" lang="pt-br">
+	<head> 
+		<title> Exemplo de XHTML </title>
+			<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+			<!--Omitidas outras meta tags-->
+				<style type="text/css" media="all">
+					Entra folha de estilos para demonstrar outros exemplos.
+				</style>
+	</head>
+	<body> 
+		Entra o bloco de códigos HTML para exemplos
+	</body>
+</html>
+
+*****************CSS********************
+/*blocos de código são marcados com fontes monoespaçadas*/
+
+body {
+	margin: 0;
+	padding: 0:
+	font-family: Arial, Sans-Serif;
+	background: #fff;  /*marcação em negrito*/
+}
